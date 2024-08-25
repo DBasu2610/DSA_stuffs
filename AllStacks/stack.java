@@ -1,4 +1,4 @@
-package AllStacks;
+package DSA_stuffs.AllStacks;
 import java.util.Stack;
 
 public class stack {

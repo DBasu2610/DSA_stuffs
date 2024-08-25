@@ -1,4 +1,4 @@
-package AllStacks;
+package DSA_stuffs.AllStacks;
 
 public class CustomStack {
     protected int data[];

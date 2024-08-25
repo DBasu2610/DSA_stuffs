@@ -1,4 +1,4 @@
-package AllStacks;
+package DSA_stuffs.AllStacks;
 
 public class DynamicStack extends CustomStack{
     public DynamicStack () {
