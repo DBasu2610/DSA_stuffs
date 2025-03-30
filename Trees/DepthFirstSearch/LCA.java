@@ -1,4 +1,4 @@
-package Trees.DepthFirstSearch;
+package DSA_stuffs.Trees.DepthFirstSearch;
 //AMAZON
 public class LCA {
     public class TreeNode {

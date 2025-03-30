@@ -1,4 +1,4 @@
-package Trees.BreadthFirstSearch;
+package DSA_stuffs.Trees.BreadthFirstSearch;
 
 import java.util.ArrayList;
 import java.util.Deque;

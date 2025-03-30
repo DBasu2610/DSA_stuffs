@@ -1,4 +1,4 @@
-package Trees.DepthFirstSearch;
+package DSA_stuffs.Trees.DepthFirstSearch;
 //GOOGLE AMAZON FACEBOOK
 public class Diameter {
     public class TreeNode {

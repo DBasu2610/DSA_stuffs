@@ -1,4 +1,4 @@
-package Trees;
+package DSA_stuffs.Trees;
 
 class BST {
     public class Node {

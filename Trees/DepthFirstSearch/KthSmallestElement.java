@@ -1,4 +1,4 @@
-package Trees.DepthFirstSearch;
+package DSA_stuffs.Trees.DepthFirstSearch;
 //GOOGLE FACEBOOK
 public class KthSmallestElement {
     public class TreeNode {

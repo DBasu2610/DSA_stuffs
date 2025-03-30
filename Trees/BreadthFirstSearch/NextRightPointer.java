@@ -1,4 +1,4 @@
-package Trees.BreadthFirstSearch;
+package DSA_stuffs.Trees.BreadthFirstSearch;
 // AMAZON LONDON
 public class NextRightPointer {
     class Node {

@@ -1,4 +1,4 @@
-package Trees.BreadthFirstSearch;
+package DSA_stuffs.Trees.BreadthFirstSearch;
 
 public class SameTree {
     public class TreeNode {

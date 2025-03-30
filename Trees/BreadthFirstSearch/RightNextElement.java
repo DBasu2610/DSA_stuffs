@@ -1,4 +1,4 @@
-package Trees.BreadthFirstSearch;
+package DSA_stuffs.Trees.BreadthFirstSearch;
 //to print the value of the node right next to a given node
 //GOOGLE
 
